@@ -1,3 +1,6 @@
+#群组
+vmess://eyJhZGQiOiIxIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZHduIiwicG9ydCI6IjEiLCJwcyI6Iue+pOe7hEBkYW9saXNfbWlhbyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
 #vmess
 
 #日本AWS|北京隧道
